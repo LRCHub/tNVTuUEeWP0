@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "瞬き (back number) acoustic arrange ver.／ダズビー COVER",
+  "base_artist": "ダズビー",
+  "createdAt": "2025-12-25T17:01:40.617645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞬き",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_瞬き_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瞬き",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_瞬き_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瞬き",
+      "artist": "みゆな",
+      "has_synced": true,
+      "path": "select/03_瞬き_みゆな.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瞬き",
+      "artist": "ELISA",
+      "has_synced": false,
+      "path": "select/04_瞬き_ELISA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "瞬き - Mabataki",
+      "artist": "Miracle Chimpanzee",
+      "has_synced": true,
+      "path": "select/05_瞬き_-_Mabataki_Miracle_Chimpanzee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "瞬き (full)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/06_瞬き_(full)_back_number.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "瞬き (instrumental)",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/07_瞬き_(instrumental)_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞬き",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/pl_01_瞬き_ダズビー.txt"
+    }
+  ]
+}
